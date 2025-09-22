@@ -3,4 +3,4 @@ I MAINLY WORK WITH PYTHON BUT I'M ALSO A FRONT-END DEVELOPER
 
 # ecommerce Website
 This is a clothing shpop ecommerce website, below is the link to the website
-https://zadel01234.github.io/ecommerce
+https://zadel01234.github.io/
